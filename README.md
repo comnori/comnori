@@ -40,8 +40,8 @@ For more details, check the progress through the link below.
 
 ### Deveopment
 
-|   Layer   |   ||
-|:--------: |-------- |-------- |
+|   Layer  |  Type  |        |
+|:--------:|--------|--------|
 | Frontend  | Language |![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)           |
 ||Framework / Library | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)|
 ||IDE|![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)|
@@ -52,8 +52,8 @@ For more details, check the progress through the link below.
 
 ### Enviroment
 
-||||
-|-|-|-|
+|   Layer  |  Type  |        |
+|:--------:|--------|--------|
 | DevOps    | Language | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white) |
 | | Platform | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)|
 | | Virtualization | ![KVM/QEMU](https://img.shields.io/badge/KVM/QEMU-f76300?style=for-the-badge&logo=qemu&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1d63ed?style=for-the-badge&logo=docker&logoColor=white) |
