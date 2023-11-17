@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I am a full-stack developer working toward becoming a software designer.
 
