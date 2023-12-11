@@ -14,9 +14,6 @@
   - spring-template-awesome-soho
 - DevOps
   - devops-template-awesome-soho
-- ETC
-  - VSCode Frontend Extension Pack
-  - VSCode Java Backend Extension Pack
 
 ### Private project
 
@@ -31,7 +28,7 @@ For more details, check the progress through the link below.
 
 ## 🌱 I’m currently learning
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Unreadk](https://img.shields.io/badge/Unreal-100000?style=for-the-badge&logo=unrealengine&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
 ## Skils
 
@@ -66,7 +63,9 @@ For more details, check the progress through the link below.
 
 ## 🤔 I’m looking for help with
 
-I am trying to get a job at a large IT company.
+I plan to get a job at a large IT company in 2023.
+
+By 2024, I will be able to get a job at a company near Seongsu-dong.
 
 ## 💬 Ask me about
 
@@ -74,8 +73,8 @@ I am trying to get a job at a large IT company.
 
 ## 📫 How to reach me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comnori@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yongsik-yun-36260344/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:comnori@gmail.com)
 
 ## 😄 Pronouns
 
@@ -83,4 +82,15 @@ FindTheBest
 
 ## Links
 
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/comnori) [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.findthebest.co.kr/) [![Github pages](https://img.shields.io/badge/pages-black?style=for-the-badge&logo=github)](https://comnori.github.io/cra-template-awesome-soho) [![NPM](https://img.shields.io/badge/npm-FFFFFF?style=for-the-badge&logo=npm)](https://www.npmjs.com/~comnori) [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://comnori.blogspot.com/)
+### Packages
+
+[![NPM](https://img.shields.io/badge/npm-FFFFFF?style=for-the-badge&logo=npm)](https://www.npmjs.com/~comnori)
+[![Visual Studio Marketplace](https://img.shields.io/badge/visual_studio_marketplace-0078D4?style=for-the-badge&logo=visual%20studio%20code)](https://marketplace.visualstudio.com/publishers/comnori)
+
+### Demo
+
+[![CRA/VITE TEMPLATE AWESOME SOHO](https://img.shields.io/badge/CRA_VITE_TEMPLATE_DEMO-black?style=for-the-badge&logo=github)](https://comnori.github.io/cra-template-awesome-soho)
+
+### Blogs
+
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/comnori) [![Medium](https://img.shields.io/badge/Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.findthebest.co.kr/)   [![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://comnori.blogspot.com/)
