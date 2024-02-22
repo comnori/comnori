@@ -61,12 +61,6 @@ For more details, check the progress through the link below.
 | | Documantation| ![AsciiDoc](https://img.shields.io/badge/AsciiDoctor-1f8197?style=for-the-badge&logo=asciidoctor&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)|
 | | SCM| ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![SVN](https://img.shields.io/badge/SVN-7c97c3?style=for-the-badge&logo=subversion&logoColor=white)|
 
-## 🤔 I’m looking for help with
-
-I plan to get a job at a large IT company in 2023.
-
-By 2024, I will be able to get a job at a company near Seongsu-dong.
-
 ## 💬 Ask me about
 
 [![Github Disscusion](https://img.shields.io/badge/discussion-black?style=for-the-badge&logo=github)](https://github.com/comnori/comnori/discussions)
